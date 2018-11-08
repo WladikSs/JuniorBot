@@ -1,0 +1,2 @@
+# JuniorBot
+DiscordJunior
